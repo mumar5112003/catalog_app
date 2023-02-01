@@ -1,8 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import '../utils/routes.dart';
-
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});
   final imageUrl =

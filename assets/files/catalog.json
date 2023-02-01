@@ -1,0 +1,105 @@
+{
+    "products":[
+        {
+          "id": 1,
+          "name": "Infinix",
+          "desc": "Infinix Note 11 Pro",
+          "price": 300,
+          "color": "#33505a",
+          "img":
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BSNm1wgF5moh-K2p2zBqw_cU2tBObKZug&usqp=CAU"
+    
+        },
+        {
+            "id": 2,
+            "name": "Iphone 11 Pro",
+            "desc": "Iphone 11 Pro",
+            "price": 1000,
+            "color": "#33505b",
+            "img":
+            "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-11-pro/iphone-11-pro-silver.jpg"
+      
+          },
+          {
+            "id": 3,
+            "name": "Iphone 13 Pro",
+            "desc": "Iphone 13 Pro",
+            "price": 700,
+            "color": "#33505c",
+            "img":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BSNm1wgF5moh-K2p2zBqw_cU2tBObKZug&usqp=CAU"
+      
+          },
+          {
+            "id": 4,
+            "name": "Infinix",
+            "desc": "goodforuse",
+            "price": 2000,
+            "color": "#33505d",
+            "img":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BSNm1wgF5moh-K2p2zBqw_cU2tBObKZug&usqp=CAU"
+      
+          },
+          {
+            "id": 5,
+            "name": "Infinix",
+            "desc": "goodforuse",
+            "price": 1300,
+            "color": "#33505e",
+            "img":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BSNm1wgF5moh-K2p2zBqw_cU2tBObKZug&usqp=CAU"
+      
+          },
+          {
+            "id": 6,
+            "name": "Infinix",
+            "desc": "goodforuse",
+            "price": 7000,
+            "color": "#33505f",
+            "img":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BSNm1wgF5moh-K2p2zBqw_cU2tBObKZug&usqp=CAU"
+    
+          },
+          {
+            "id": 7,
+            "name": "Infinix",
+            "desc": "goodforuse",
+            "price": 8000,
+            "color": "#33505g",
+            "img":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BSNm1wgF5moh-K2p2zBqw_cU2tBObKZug&usqp=CAU"
+      
+          },
+          {
+            "id": 8,
+            "name": "Iphone 11 Pro",
+            "desc": "Iphone 11 Pro",
+            "price": 1000,
+            "color": "#33505b",
+            "img":
+            "https://cdn.alloallo.media/catalog/product/apple/iphone/iphone-11-pro/iphone-11-pro-silver.jpg"
+      
+          },
+          {
+            "id": 9,
+            "name": "Iphone 13 Pro",
+            "desc": "Iphone 13 Pro",
+            "price": 700,
+            "color": "#33505c",
+            "img":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BSNm1wgF5moh-K2p2zBqw_cU2tBObKZug&usqp=CAU"
+      
+          },
+          {
+            "id": 10,
+            "name": "Infinix",
+            "desc": "goodforuse",
+            "price": 2000,
+            "color": "#33505d",
+            "img":
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ6BSNm1wgF5moh-K2p2zBqw_cU2tBObKZug&usqp=CAU"
+      
+          }
+
+    ]
+}
